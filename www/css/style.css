@@ -1,0 +1,45 @@
+/**/
+body{
+  background-image: url("fndApk.jpg");
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: 100%;
+}
+
+#btnMapa{
+  width: 200px;
+  display: block;
+  margin-top: 0.4%;
+}
+
+#btnMapa2{
+  width: 200px;
+  display: none;
+}
+
+h1{
+  text-align: center;
+  font-weight: bold;
+  color: white;
+}
+
+#conteudo{
+  margin-top: 10%;
+}
+
+#mstMapa{
+  margin-top: 5%;
+  display: none;
+}
+
+#terra{
+  display: block;
+  filter: blur(1px);
+  opacity: 0.8;
+  width: 35%;
+  margin-top: 15%;
+}
+
+#ponto{
+  width: 35%;
+}
